@@ -4,6 +4,6 @@
 export AWS_ACESS_KEY_ID='xxxxx'
 export AWS_SECRET_ACCESS_KEY='YYYy'
 
-## AScredentials s Env variables for powershell
+## AWS Credentials as Env variables for powershell
 $Env: AWS_ACESS_KEY_ID='xxxxx'
 $Env: AWS_SECRET_ACCESS_KEY='YYYy'
