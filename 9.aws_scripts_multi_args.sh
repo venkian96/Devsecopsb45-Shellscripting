@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ $# -gt 0]; then
+if [ $# -gt 0 ]; then
 for REGION in $@;
 do
  echo "Lets get Vpc info for ${REGION} ..."
